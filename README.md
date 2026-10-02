@@ -68,7 +68,9 @@ Este projeto não utiliza Redux, Context API ou bibliotecas avançadas.
 A ideia é manter tudo **simples e direto**, apenas com **Axios + JS básico** para entender o fluxo de consumo de APIs.
 
 ---
-
+## Print do app funcionando
+![alt text](image.png)
+---
 ## Author
 
 Feito com carinho pelo [Ryan Silva](https://github.com/srjuninn) ❤️
